@@ -1,0 +1,2 @@
+// template string below-replace initial and final double quotes with backtick and then use ${javascript value} for inserting javascript element
+    // in template string 
