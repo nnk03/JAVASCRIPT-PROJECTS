@@ -2,7 +2,7 @@
 
 This is a set of 3 Projects using HTML, CSS and Vanilla Javascript
 
-[Project 1](./PROJECT%201/) is a Counter with additional save operation. When saved the last count is displayed and the counter resets to zero.
+[Project 1](./PROJECT%201/) is a Counter with additional save operation. When saved the last count is displayed and the counter resets to zero. The deployed project can be found [here](https://storied-babka-87f176.netlify.app).
 
 [Project 2](./PROJECT%202/) is a BlackJack game.
 
